@@ -12,32 +12,21 @@ This case study focuses on metrics calculations, business growth, and smart data
 
 ## regions
 region_id	int,
-
 region_name	varchar
-
-
 
 ## customer_transactions
 customer_id	int,
-
 txn_date	date,
-
 txn_type	varchar,
-
 txn_amount	int
-
-
 
 ## customer_nodes
 customer_id	int,
-
 region_id	int,
-
 node_id	int,
-
 start_date	date,
-
 end_date	date
+
 ![image](https://github.com/Royalsivm/DATABANK-Case-Study/assets/153700930/5784cf45-c918-4537-b8e2-1ff6fa61ddb5)
 
 
