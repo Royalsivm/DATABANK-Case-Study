@@ -11,24 +11,32 @@ This case study focuses on metrics calculations, business growth, and smart data
 # SCHEMA USED
 
 ## regions
-region_id	int
+region_id	int,
+
 region_name	varchar
 
 
 
 ## customer_transactions
-customer_id	int
-txn_date	date
-txn_type	varchar
+customer_id	int,
+
+txn_date	date,
+
+txn_type	varchar,
+
 txn_amount	int
 
 
 
 ## customer_nodes
-customer_id	int
-region_id	int
-node_id	int
-start_date	date
+customer_id	int,
+
+region_id	int,
+
+node_id	int,
+
+start_date	date,
+
 end_date	date
 
 
