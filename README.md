@@ -38,7 +38,7 @@ node_id	int,
 start_date	date,
 
 end_date	date
-
+![image](https://github.com/Royalsivm/DATABANK-Case-Study/assets/153700930/5784cf45-c918-4537-b8e2-1ff6fa61ddb5)
 
 
 ## CASE STUDY QUESTIONS
